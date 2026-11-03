@@ -1,4 +1,4 @@
-﻿航拍-无人机城市部件井盖检测数据集
+﻿无人机城市部件井盖检测数据集
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/53dccb0071554e9eacb02ed500ca6e26.png)
 
 |项目|详情|
